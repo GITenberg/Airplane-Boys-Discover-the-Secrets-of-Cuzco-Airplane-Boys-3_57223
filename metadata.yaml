@@ -1,5 +1,8 @@
 _repo: Airplane-Boys-Discover-the-Secrets-of-Cuzco-Airplane-Boys-3_57223
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 57223-h/images/cover.jpg
 creator:
   author:
     agent_name: Craine, E. J. (Edith Janice)
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '43315'
     url: http://www.gutenberg.org/2009/agents/43315
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57223#Airplane-Boys-Discover-the-Secrets-of-Cuzco-Airplane-Boys-3
 gutenberg_issued: '2018-05-28'
 gutenberg_type: Text
 identifiers:
